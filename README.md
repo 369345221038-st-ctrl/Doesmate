@@ -35,4 +35,7 @@ Vue 3, Vite, Vue Router, Supabase (Auth, Postgres + RLS, Storage, Realtime), Net
 
 ## โครงสร้างโฟลเดอร์
 
-/src โค้ดหลัก · /public ไฟล์สาธารณะ · /database
+- `/src` โค้ดหลัก: `views/` (หน้าเว็บ), `components/`, `router.js`, `store.js`, `supabase.js`
+- `/public` ไฟล์สาธารณะและรูปสำหรับหน้า /impact
+- `/database` ไฟล์ฐานข้อมูล: `schema.sql` (สร้างตาราง), `seed_admin.sql` (ตั้งบัญชีแอดมิน)
+- `/docs` ภาพหน้าจอ
