@@ -2,7 +2,7 @@
 
 ทีม: Doesmate · สมาชิก: นายกฤษฎา ทองกลั่น 369345221038, นายเอกราช บัวสองสี 369345221037
 
-ลิงก์ระบบ: https://gleeful-seahorse-8b9ab7.netlify.app/
+ลิงก์ระบบ: [https://gleeful-seahorse-8b9ab7.netlify.app/](https://musical-kitten-e420fe.netlify.app/meds)
 
 ## ปัญหาและกลุ่มเป้าหมาย
 
